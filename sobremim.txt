@@ -1,2 +1,3 @@
 Meu nome: Luan Victor
 Curso: Técnico de Informática
+Linguagem pretendida: C#
