@@ -1,0 +1,2 @@
+1.Conseguir média maior que 7
+2.Conseguir uma rotina mais eficiente de estudo
